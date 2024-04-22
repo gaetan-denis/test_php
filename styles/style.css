@@ -1,0 +1,26 @@
+nav {
+    background-color: rgba(0, 0, 0, 0.8);
+    height : 60px;
+    display: flex;
+}
+
+ul {
+    display:flex;
+
+}
+
+li {
+    margin-right: 16px;
+}
+
+a {
+    color : goldenrod;
+}
+
+.error{
+    background-color: red;
+}
+
+.success{
+    background-color: green;
+}
